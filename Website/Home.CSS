@@ -1,0 +1,39 @@
+div {
+    border:1px dashed gray;
+}
+ body{
+     background-color: #96989e;
+}
+h1{ font-size: 60px;
+
+}
+h2{ color: #9b1021;
+    font-size: 30px;
+}
+
+h1{ font-style:inherit;
+}
+
+img{
+    position: relative;
+    top: 600px;
+
+}
+img {
+    position: relative;
+    left: 200px
+}
+
+p {
+    text-align:center;
+}
+
+  
+   body{ background-image: url(Langston_Hughes.jpg); 
+    background-color: #cccccc; 
+    height: 600px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+   }
